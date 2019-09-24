@@ -1,2 +1,2 @@
 # hello---world
-sozdal dlya echebi
+sozdal dlya учебы
